@@ -21,7 +21,7 @@ Open-source web apps
 Portfolio sites with slick UIs
 Fun side projects (maybe a JS-based game? 🎮)
 
-Drop me a message on Twitter or email me at thehaqhub@example.com. Let's build something epic!
+Drop me a message on Twitter or email me at ahkhan0566@gmail.com. Let's build something epic!
 🎉 Fun Facts About Me
 
 Pronouns: He/Him
