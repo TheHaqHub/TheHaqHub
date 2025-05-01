@@ -17,7 +17,7 @@ Hey there, I’m **@TheHaqHub**—a code sorcerer transitioning from medicine to
 - **Fun Fact**: I once debugged a WP_CRON error in 10 minutes—take that, WordPress! ⚡
 
 ## 🤝 Let’s Collaborate!
-I’m looking to team up on MERN projects or open-source web apps. Got a sleek UI idea or a JS challenge? Let’s build something epic! Reach me on [Twitter](https://twitter.com/TheHaqHub) or email: thehaqhub@example.com.
+I’m looking to team up on MERN projects or open-source web apps. Got a sleek UI idea or a JS challenge? Let’s build something epic! Reach me on ahkhan0566@gmail.com.
 
 ## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHaqHub&show_icons=true&theme=radical)
