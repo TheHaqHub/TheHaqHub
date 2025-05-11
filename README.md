@@ -43,8 +43,6 @@ Thanks for visiting! Let’s build cool things together. 🌐✨
 
 **Pet Adoption App (WIP)**: I’m making an app to help pets find homes. Stay tuned!
 
-⭐ **Tip**: *Code + Coffee = 🚀*
-
 ---
 
 
