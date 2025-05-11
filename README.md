@@ -1,4 +1,5 @@
-🌌 Welcome to TheHaqHub’s Tech Journey! 🚀
+#🌌 Welcome to TheHaqHub’s Tech Journey! 🚀
+
 Hi! I’m @TheHaqHub — I moved from studying medicine to writing code! 🩺➡️💻
 Now I’m learning the MERN stack (MongoDB, Express, React, Node.js) and really enjoying JavaScript. I like building apps and fixing bugs. Even small things like why "2" > 1 is true can surprise me (crazy, right? 🤯)
 
