@@ -1,36 +1,46 @@
-# 🌌 Welcome to TheHaqHub’s Tech Odyssey! 🚀
+🌌 Welcome to TheHaqHub’s Tech Journey! 🚀
+Hi! I’m @TheHaqHub — I moved from studying medicine to writing code! 🩺➡️💻
+Now I’m learning the MERN stack (MongoDB, Express, React, Node.js) and really enjoying JavaScript. I like building apps and fixing bugs. Even small things like why "2" > 1 is true can surprise me (crazy, right? 🤯)
 
-Hey there, I’m **@TheHaqHub**—a code sorcerer transitioning from medicine to tech mastery! 🩺➡️💻 I’m diving deep into the **MERN stack** (MongoDB, Express, React, Node.js) and thriving in the wild world of JavaScript. Whether I’m wrestling MongoDB queries or cracking JavaScript type coercion (`"2" > 1`—mind blown! 🤯), I’m all about crafting sleek apps and squashing quirky bugs with a grin. 😎
+🌟 My Journey
+From Medicine to Code: I left medicine and started learning how to build apps.
 
-## 🌟 My Tech Journey
-- **From Medicine to Code**: Swapped stethoscopes for keyboards—now I’m building the future, one app at a time!
-- **Learning MERN Stack**: Mastering full-stack dev with MongoDB, Express, React, and Node.js. Currently hooked on React hooks and dreaming of scalable APIs.
-- **Recent Wins**:
-  - Built a 🔥 HTML one-shot project.
-  - Streamlined my [js-repo](https://github.com/TheHaqHub/js-repo) workflow—check out my [String Interpolation demo](https://github.com/TheHaqHub/js-repo/blob/main/basics/D-05-modernStrings.js)!
-- **Next Quest**: Crafting a MERN-based pet adoption app (because coding + cute pets = 🐶💕).
+Learning MERN Stack: I’m working on MongoDB, Express, React, and Node.js. Right now, I’m learning React hooks and how to make good APIs.
 
-## 🛠️ Skills & Tech I Love
-- **Languages**: JavaScript, HTML, CSS, Java, Python
-- **Tools**: VS Code, Git, Postman
-- **Frameworks**: React, Node.js, Express
-- **Fun Fact**: I once debugged a WP_CRON error in 10 minutes—take that, WordPress! ⚡
+Things I’ve Done:
 
-## 🤝 Let’s Collaborate!
-I’m looking to team up on MERN projects or open-source web apps. Got a sleek UI idea or a JS challenge? Let’s build something epic! Reach me on ahkhan0566@gmail.com.
+Made a simple one-page HTML project 🔥
 
-## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHaqHub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHaqHub&layout=compact)
+Made my js-repo better — here’s my String Interpolation demo!
 
-## 🎉 Fun Vibes
-- **Pronouns**: He/Him
-- **Quirk**: I name my variables after sci-fi characters (shoutout to `captainQuerySelector` 🖖).
-- **Current Mood**: `while(coffee > 0) { code(); }`
+What I’m Building Now: A pet adoption app using the MERN stack (because pets + code = 🐶💕)
 
-Let’s make the web a more awesome place together! 🌐✨
-Pet Adoption App (WIP): A MERN stack app to connect pets with forever homes. Stay tuned!
+🛠️ Skills & Tools
+Languages: JavaScript, HTML, CSS, Java, Python
 
+Tools: VS Code, Git, Postman
+
+Frameworks: React, Node.js, Express
+
+Fun Fact: I once fixed a WordPress problem in 10 minutes ⚡
+
+🤝 Let’s Connect
+I’m happy to work on MERN projects or any web apps. If you have a cool idea or want to build something together, email me at ahkhan0566@gmail.com.
+
+📊 My Stats
+
+
+
+🎉 Fun Facts
+Pronouns: He/Him
+
+I like: Naming my variables after sci-fi characters (like captainQuerySelector 🖖)
+
+Mood right now: while(coffee > 0) { code(); }
+
+Thanks for visiting! Let’s build cool things together. 🌐✨
+
+Pet Adoption App (WIP): I’m making an app to help pets find homes. Stay tune.
 
 ⭐ Pro Tip: "Code" + "Coffee" = 🚀Thanks for stopping by! Let's make the web a more awesome place together. 😎
 
