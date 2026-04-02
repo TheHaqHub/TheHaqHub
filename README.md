@@ -116,7 +116,7 @@ const TheHaqHub = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ahkhan0566%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahkhan0566@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abdulhaq.swe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahkhan0566@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-TheHaqHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheHaqHub)
 
