@@ -1,134 +1,116 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:818cf8,100:f472b6&height=200&section=header&text=TheHaqHub&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=From%20Medicine%20to%20Code%20%F0%9F%A9%BA%E2%9E%A1%EF%B8%8F%F0%9F%92%BB&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=210&section=header&text=Abdul%20Haq&fontSize=56&fontColor=ffffff&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Ex-Medic%20Turned%20Coder&descAlignY=52&descSize=17&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=while(coffee+%3E+0)+%7B+code();+%7D;Building+the+MERN+stack+one+bug+at+a+time+%F0%9F%90%9B;Pet+Adoption+App+in+progress+%F0%9F%90%BE;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Turning+ideas+into+working+products;Open+to+freelance+%26+MERN+collabs" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views + followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=TheHaqHub&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/TheHaqHub?label=Followers&style=flat-square&color=818cf8)](https://github.com/TheHaqHub)
+<img src="https://komarev.com/ghpvc/?username=TheHaqHub&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://github.com/TheHaqHub"><img src="https://img.shields.io/github/followers/TheHaqHub?label=FOLLOWERS&style=for-the-badge&color=6366f1" /></a>
 
 </div>
 
----
+<br/>
 
-## 🧬 The Story So Far
+##  About Me
 
-```js
-const TheHaqHub = {
-  pronouns   : "he/him",
-  from       : "Medicine School 🩺",
-  landed_in  : "Code & the Web 💻",
-  stack      : ["MongoDB", "Express", "React", "Node.js"],
-  learning   : ["React Hooks", "REST APIs", "Building cool stuff"],
-  building   : "🐾 PawMatch — A MERN Pet Adoption App",
-  fun_fact   : "I fixed a WordPress issue in 10 minutes ⚡",
-  mood       : () => `while(coffee > 0) { code(); }`
-};
-```
+I'm a software engineering student and full-stack developer, previously trained as a medic before switching into tech. My core stack is **React, Node.js, Express, and MongoDB** — I build the interface someone touches, and everything underneath it.
 
----
+I take on freelance web projects for local businesses, and I build software for real institutions — including desktop tooling for my own madrassa, where I get to see the whole pipeline from what people actually need to what gets shipped.
 
-## 🚀 What I'm Working On
+<br/>
 
-> 🐾 **PawMatch** — A full-stack pet adoption platform built with the MERN stack.
-> Every pet deserves a home. Every dev deserves a meaningful first project. 🐶💕
+## Featured Work
 
-**Status:** `[████████░░]` 80% — Coming Soon!
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3> Islamic institute Management System</h3>
+Offline desktop app for Jamia Abdullah bin Masood (R.A.) — attendance, sabak progress tracking, Wifaq document storage, exam records, and QR-code student verification.
+<br/><br/>
+<code>Electron</code> <code>Node/Express</code> <code>SQLite</code>
+</td>
+<td width="50%" valign="top">
+<h3>The Royal Mughlai Catering</h3>
+A mobile-first digital banquet menu for a professional catering business.
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3> NOIR Café</h3>
+A dark, cinematic single-page site for a café in Attock City, with custom typography and scroll animations.
+</td>
+<td width="50%" valign="top">
+<h3> OptimusBlog</h3>
+A full-stack MERN blogging platform.
+<br/><br/>
+<a href="https://github.com/TheHaqHub/OptimusAutomate_OptimusBlog">→ Repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3> Real-Time Chat</h3>
+A real-time communication app built on the MERN stack.
+<br/><br/>
+<a href="https://github.com/TheHaqHub/OptimusAutomate_RealTimeChat">→ Repository</a>
+</td>
+<td width="50%" valign="top">
+<h3> OptimusPM</h3>
+A project management tool for tracking tasks and workflows.
+<br/><br/>
+<a href="https://github.com/TheHaqHub/OptimusAutomate_OptimusPM">→ Repository</a>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack
 
-<!-- Languages -->
-**Languages**
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Runtime**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheHaqHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHaqHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9"/>
 
 </div>
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheHaqHub&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f472b6&currStreakLabel=818cf8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
+##  GitHub Stats
 
 <div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TheHaqHub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHaqHub&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=TheHaqHub&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=a855f7&currStreakLabel=6366f1" />
+
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheHaqHub&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
-
-## 🌟 Fun Facts
-
-| | |
-|---|---|
-| 🩺 ➡️ 💻 | Left medicine to build the web |
-| ⚡ | Fixed a WordPress bug in 10 minutes |
-| 🖖 | Variables named `captainQuerySelector`, `darth_callback` |
-| 🤯 | Still can't believe `"2" > 1` is `true` in JS |
-| 🐶 | Building a pet adoption app because pets deserve code too |
-| ☕ | Fuel: `while(coffee > 0) { code(); }` |
-
----
-
-## 📬 Let's Connect & Build Something Cool
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-abdulhaq.swe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhaq.swe@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-TheHaqHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheHaqHub)
+**📫 Reach me on [GitHub](https://github.com/TheHaqHub) or through my [Gmail](abdulhaq.swe@gmail.com)**
 
-> 💬 **Open to:** MERN stack collabs, web app projects, and anything that solves a real problem.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
 
-</div>
-
----
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:818cf8,100:38bdf8&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <sub>⭐ "Code" + "Coffee" = 🚀 &nbsp;|&nbsp; Thanks for stopping by! Let's make the web more awesome. 😎</sub>
 </div>
