@@ -109,7 +109,7 @@ A project management tool for tracking tasks and workflows.
 
 <div align="center">
 
-**📫 Reach me on [GitHub](https://github.com/TheHaqHub) or through my [Gmail](abdulhaq.swe@gmail.com)**
+**📫 Reach me on [GitHub](https://github.com/TheHaqHub) or through my [Portfolio](https://abdulhaq-dev.vercel.app/)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
 
